@@ -1,4 +1,3 @@
-````markdown
 # Bybit USDT/RUB Price Monitor
 
 ## 🇷🇺 Описание
