@@ -76,5 +76,3 @@ python main.py
 
 > Made for automation, trading, and monitoring needs.
 
-```
-
